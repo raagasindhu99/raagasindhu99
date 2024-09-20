@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hi, I'm Raaga!
 
-<!--
-**raagasindhu99/raagasindhu99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+💻 Data Analyst sharing about my journey and learnings in tech<br/>
+🎓 Currently pursuing a Master’s degree in **Data Analytics Engineering** at **Northeastern University**, Boston - MA<br/>
+🔍 My passion lies in extracting value from data and developing machine learning models that drive real-world impact.<br/>
+🚀 Continuously learning and experimenting with the latest in machine learning, from neural networks to advanced algorithms,<br/>
+    and eager to push the boundaries of what's possible with data.<br/>
+🌱 Currently curious about optimizing model performance, deep learning, and AI applications in various industries.<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+<!-- GitHub stats -->
+![Raaga's GitHub Stats](https://github-readme-stats.vercel.app/api?username=raagasindhu99&show_icons=true&theme=radical&count_private=true&hide_rank=false)
