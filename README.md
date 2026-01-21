@@ -1,7 +1,7 @@
 ### Hi, I'm Raaga!
 
 
-💻 Data Analyst sharing about my journey and learnings in tech<br/>
+💻 Data Enthusiast sharing about my journey and learnings in tech<br/>
 🎓 Currently pursuing a Master’s degree in **Data Analytics Engineering** at **Northeastern University**, Boston - MA<br/>
 🔍 My passion lies in extracting value from data and developing machine learning models that drive real-world impact.<br/>
 🚀 Continuously learning and experimenting with the latest in machine learning, from neural networks to advanced algorithms,<br/>
